@@ -80,8 +80,8 @@ The main features of LPC2148 include the following.
 
 ## STM 32 CUBE PROGRAM :
 ```
-Developed By:Rishi M
-Reg.No:212222230119
+Developed By:Elamaran S E
+Reg.No:212222230036
 
 #include "main.h"
 
